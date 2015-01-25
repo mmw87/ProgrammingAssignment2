@@ -1,5 +1,5 @@
 #These functions take a matrix (x), calculate its inverse, cache the inverse, 
-#and then retrieve and the inverse matrix from the cache.
+#and then retrieve the inverse from the cache.
 
 #This function creates a matrix and can cache its inverse
 
